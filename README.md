@@ -5,7 +5,7 @@
 ### Steps to add new exchange to DexLib
 
 1. Fork [paraswap-dex-lib](https://github.com/paraswap/paraswap-dex-lib) to your organization or personal account.
-2. Clone the repository locally and create a branch with appropriate name (eg: `feature/super-dex`)
+2. Clone the repository locally and create a branch with an appropriate name (eg: `feature/super-dex`)
 3. Install the repository dependencies using:
 
 ```bash
